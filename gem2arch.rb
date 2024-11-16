@@ -3,6 +3,7 @@
 require 'digest/sha1'
 require 'erubis'
 require 'json'
+require 'net/http'
 require 'optparse'
 require 'ostruct'
 require 'rubygems/name_tuple'
